@@ -1,16 +1,21 @@
-## Hi there 👋
+# Seydi Ndiaye
 
-<!--
-**seydi-dev/Seydi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student at UQTR.
 
-Here are some ideas to get you started:
+I build mobile and web applications using Angular, Spring Boot, and React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some repositories are private due to academic or organizational restrictions.
+
+## principal
+ Projects 
+### VigiTech
+Security patrol management system with NFC inspections.
+
+Tech stack:
+Angular, Spring Boot, PostgreSQL
+
+### speedy box
+Mobile platform to reserve cargo space for travelers.
+
+Tech stack:
+React Native, Spring Boot
