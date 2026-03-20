@@ -21,7 +21,7 @@ PSM I certified | AWS Cloud Practitioner | Azure AZ-900 certified | Azure AZ-104
 ### 🔐 VigiTech — Security Patrol Management System
 Security patrol management application with NFC inspections and real-time dashboard.  
 **Tech stack:** Angular • Spring Boot • PostgreSQL • AWS (EC2, S3) • CI/CD GitHub Actions  
-Projet Confidentiel
+
 
 
 ---
@@ -29,7 +29,7 @@ Projet Confidentiel
 ### 📦 Speedy-Box — Cargo Space Reservation Platform
 Mobile platform allowing travelers to reserve cargo space for shipments.  
 **Tech stack:** React Native • Spring Boot • PostgreSQL  
-Projet Confidentiel
+
 
 ---
 
