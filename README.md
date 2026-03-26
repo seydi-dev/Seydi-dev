@@ -18,11 +18,11 @@ PSM I certified | AWS Cloud Practitioner | Azure AZ-900 certified | Azure AZ-104
 
 ## 🚀 Projects
 
-### 🔐 VigiTech — Security Patrol Management System
-Security patrol management application with NFC inspections and real-time dashboard.  
+### 🛡️ VigiTech — Security Patrol Management System
+Security patrol management SaaS platform with NFC inspections, real-time dashboard and incident reporting.  
+Deployed on **5 active sites** in Trois-Rivières — used in production for over a year.  
 **Tech stack:** Angular • Spring Boot • PostgreSQL • AWS (EC2, S3) • CI/CD GitHub Actions  
-
-
+🔗 [Live](https://vigitech.app)
 
 ---
 
@@ -31,13 +31,12 @@ Full-stack recruitment management platform for HR teams — job offers, candidat
 **Tech stack:** Angular 19 • ASP.NET Core • PostgreSQL • Jest • Cypress • GitHub Actions • Firebase  
 ✅ Automated tests | ✅ CI/CD pipeline | ✅ Deployed on Firebase  
 🔗 [Repo](https://github.com/seydi-dev/recruitflow) | [Live Demo](https://recruit-flow-front.web.app)
----
 
+---
 
 ### 📦 Speedy-Box — Cargo Space Reservation Platform
 Mobile platform allowing travelers to reserve cargo space for shipments.  
 **Tech stack:** React Native • Spring Boot • PostgreSQL  
-
 
 ---
 
@@ -67,11 +66,11 @@ Classic browser games — Hangman and Snake with score management.
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | Angular, React Native, TypeScript, HTML/CSS |
+| **Frontend** | Angular 19, React Native, TypeScript, HTML/CSS |
 | **Backend** | Java/Spring Boot, .NET (C#), Node.js, APIs REST |
 | **Database** | PostgreSQL, MySQL, SQL Server |
 | **DevOps** | Git, CI/CD GitHub Actions, Docker (basics) |
-| **Cloud** | AWS (EC2, S3), Azure (AZ-900) |
+| **Cloud** | AWS CLF-C02 ✓, Azure AZ-900 ✓, EC2, S3, Firebase |
 | **Testing** | Jest, Cypress, Jasmine |
 | **Methods** | Agile Scrum (PSM I certified), Jira |
 
@@ -80,6 +79,6 @@ Classic browser games — Hangman and Snake with score management.
 ## 📜 Certifications
 
 - ✅ **PSM I** — Professional Scrum Master I (Scrum.org) — 2026
+- ✅ **AWS CLF-C02** — Cloud Practitioner (Amazon) — 2026
 - ✅ **AZ-900** — Microsoft Azure Fundamentals — 2025
-- ✅ **AWS CLF-C02** — Cloud Practitioner
 - ⏳ **AZ-104** — Azure Administrator (in progress)
