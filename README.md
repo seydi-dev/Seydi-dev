@@ -26,6 +26,14 @@ Security patrol management application with NFC inspections and real-time dashbo
 
 ---
 
+### 🎯 RecruitFlow — Recruitment Management Platform
+Full-stack recruitment management platform for HR teams — job offers, candidates, interviews and evaluations.  
+**Tech stack:** Angular 19 • ASP.NET Core • PostgreSQL • Jest • Cypress • GitHub Actions • Firebase  
+✅ Automated tests | ✅ CI/CD pipeline | ✅ Deployed on Firebase  
+🔗 [Repo](https://github.com/seydi-dev/recruitflow) | [Live Demo](https://recruit-flow-front.web.app)
+---
+
+
 ### 📦 Speedy-Box — Cargo Space Reservation Platform
 Mobile platform allowing travelers to reserve cargo space for shipments.  
 **Tech stack:** React Native • Spring Boot • PostgreSQL  
