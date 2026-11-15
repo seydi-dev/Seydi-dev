@@ -10,7 +10,7 @@
 
 Full-Stack developer specialized in Angular, Java/Spring Boot and .NET.  
 Experience in REST APIs, CI/CD pipelines, cloud deployment (AWS, Azure) and automated testing.  
-PSM I certified | AWS Cloud Practitioner | Azure AZ-900 certified | Azure AZ-104 in progress.
+PSM I certified | AWS Cloud Practitioner | Azure AZ-900 certified | Azure AI-200 in progress.
 
 > Some repositories are private due to academic or organizational restrictions.
 
