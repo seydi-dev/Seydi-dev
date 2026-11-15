@@ -81,4 +81,4 @@ Classic browser games — Hangman and Snake with score management.
 - ✅ **PSM I** — Professional Scrum Master I (Scrum.org) — 2026
 - ✅ **AWS CLF-C02** — Cloud Practitioner (Amazon) — 2026
 - ✅ **AZ-900** — Microsoft Azure Fundamentals — 2025
-- ⏳ **AZ-104** — Azure Administrator (in progress)
+- ⏳ **AI-200** — Azure AI Cloud Developer (in progress)
