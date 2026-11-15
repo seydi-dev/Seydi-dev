@@ -20,7 +20,7 @@ PSM I certified | AWS Cloud Practitioner | Azure AZ-900 certified | Azure AI-200
 
 ### 🛡️ VigiTech — Security Patrol Management System
 Security patrol management SaaS platform with NFC inspections, real-time dashboard and incident reporting.  
-Deployed on **5 active sites** in Trois-Rivières — used in production for over a year.  
+Deployed on **UQTR ** in Trois-Rivières — used in production for over a year.  
 **Tech stack:** Angular • Spring Boot • PostgreSQL • AWS (EC2, S3) • CI/CD GitHub Actions  
 🔗 [Live](https://vigitech.app)
 
